@@ -38,3 +38,9 @@ https://github.com/moggieuk/Happy-Hare/tree/main
 cd ~
 
 git clone https://github.com/moggieuk/Happy-Hare.git
+
+
+# Calibration
+With Beacon, auto calibrate axis twist:
+AXIS_TWIST_COMPENSATION_CALIBRATE AUTO=True
+
