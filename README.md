@@ -44,3 +44,16 @@ git clone https://github.com/moggieuk/Happy-Hare.git
 With Beacon, auto calibrate axis twist:
 AXIS_TWIST_COMPENSATION_CALIBRATE AUTO=True
 
+# WIFI
+## Disable
+**rfkill block wifi**
+
+## Enable
+**rfkill unblock wifi**
+
+## Status
+**rfkill**
+
+## Disabled on boot
+added to \boot\firmware\config.txt
+dtoverlay=disable-wifi
