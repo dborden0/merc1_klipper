@@ -1,0 +1,14 @@
+{
+    "brim_type": "no_brim",
+    "extra_perimeters_on_overhangs": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard (0.4 nozzle)",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard (0.4 nozzle) - Dan",
+    "outer_wall_speed": "120",
+    "print_settings_id": "0.20mm Standard (0.4 nozzle) - Dan",
+    "skirt_loops": "0",
+    "sparse_infill_density": "99%",
+    "support_type": "tree(auto)",
+    "version": "1.4.5.0"
+}

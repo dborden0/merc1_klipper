@@ -1,0 +1,24 @@
+{
+  "type": "machine",
+  "setting_id": "GM029",
+  "name": "ZeroG M1.1 Hydra 400 (0.6 nozzle)",
+  "from": "system",
+  "instantiation": "true",
+  "inherits": "fdm_zerog_common",
+  "printer_model": "ZeroG M1.1 Hydra 400",
+  "printer_variant": "0.6",
+  "nozzle_diameter": ["0.6"],
+  "max_layer_height": ["0.48"],
+  "min_layer_height": ["0.16"],
+  "printable_area": [
+    "0x0",
+    "395x0",
+    "395x395",
+    "0x395"
+  ],
+  "printable_height": "400",
+  "default_print_profile": "0.28mm SuperDraft (0.6 nozzle)",
+  "default_filament_profile": [
+    "ZeroG Generic PLA"
+  ]
+}

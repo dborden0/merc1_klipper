@@ -1,0 +1,55 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "110"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "110"
+    ],
+    "fan_max_speed": [
+        "12"
+    ],
+    "fan_min_speed": [
+        "3"
+    ],
+    "filament_flow_ratio": [
+        "0.855"
+    ],
+    "filament_retraction_length": [
+        "0.4"
+    ],
+    "filament_settings_id": [
+        "Bambu ASA @System - Copy"
+    ],
+    "filament_shrink": [
+        "99.26%"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Bambu ASA @System",
+    "is_custom_defined": "0",
+    "name": "Bambu ASA @System - Copy",
+    "overhang_fan_speed": [
+        "15"
+    ],
+    "pressure_advance": [
+        "0.028"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "textured_plate_temp": [
+        "110"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "110"
+    ],
+    "version": "2.3.0.3"
+}

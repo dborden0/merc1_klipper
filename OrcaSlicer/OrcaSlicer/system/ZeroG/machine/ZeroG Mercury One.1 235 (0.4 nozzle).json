@@ -1,0 +1,22 @@
+{
+  "type": "machine",
+  "setting_id": "GM035",
+  "name": "ZeroG Mercury One.1 235 (0.4 nozzle)",
+  "from": "system",
+  "instantiation": "true",
+  "inherits": "fdm_zerog_common",
+  "printer_model": "ZeroG Mercury One.1 235",
+  "printer_variant": "0.4",
+  "nozzle_diameter": ["0.4"],
+  "printable_area": [
+    "0x0",
+    "230x0",
+    "230x230",
+    "0x230"
+  ],
+  "printable_height": "350",
+  "default_print_profile": "0.20mm Standard (0.4 nozzle)",
+  "default_filament_profile": [
+    "ZeroG Generic PLA"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "20"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_settings_id": [
+        "Elegoo PLA Pro Purple"
+    ],
+    "filament_shrink": [
+        "99.8%"
+    ],
+    "filament_shrinkage_compensation_z": [
+        "98.3333%"
+    ],
+    "filament_vendor": [
+        "Elegoo"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Tough @System",
+    "is_custom_defined": "0",
+    "name": "Elegoo PLA Pro Purple",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "overhang_fan_speed": [
+        "50"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "version": "2.3.1.10"
+}
